@@ -1,0 +1,7 @@
+# Platform: Unix-based OS
+# Java: JDK 8 (Oracle JDK)
+# NetLogo==6.1.1
+python==3.8.3
+numpy==1.18.5
+scipy==1.4.1
+nl4py==0.5.11
