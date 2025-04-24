@@ -22,11 +22,11 @@ It combines adaptive strategy selection with swarm intelligence principles such 
 
 ```
 .
-├── optimizer/         	# Implementation for swarm adaptation via Differential Evolution
-├── scenarios/         	# Coding and configuration of application scenarios
-├── src/        		# Core implementation of NetLogo model (AIS, swarm behaviors)
+├── optimizer/		# Implementation for swarm adaptation via Differential Evolution
+├── scenarios/		# Coding and configuration of application scenarios
+├── src/		# Core implementation of NetLogo model (AIS, swarm behaviors)
 ├── sciadro.nlogo	# Main file of NetLogo model
-├── sfe-ais.jpg   	# Representative image
+├── sfe-ais.jpg		# Representative image
 ├── README.md
 ├── CITATION.cff
 ├── LICENSE
