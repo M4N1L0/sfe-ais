@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Using Artificial Immune System to Prioritize Swarm Strategies for Environmental Monitoring"
+authors:
+  - family-names: Monaco
+    given-names: M.
+  - family-names: Simionato
+    given-names: G.
+  - family-names: Cimino
+    given-names: M. G. C. A.
+  - family-names: Vaglini
+    given-names: G.
+  - family-names: Senatore
+    given-names: S.
+  - family-names: Caricato
+    given-names: G.
+date-released: 2022-05-01
+version: "1.0"
+doi: 10.1109/CogSIMA54611.2022.9830665
+conference:
+  name: "2022 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)"
+  location: "Salerno, Italy"
+  date: 2022-05
+url: https://doi.org/10.1109/CogSIMA54611.2022.9830665
